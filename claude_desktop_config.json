@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "wireshark_packet_analyzer": {
+      "command": "python3",
+      "args": [
+        "C:\\Users\\Wireshark\\Desktop\\bridge.py"
+      ]
+    }
+  }
+}
