@@ -3,6 +3,12 @@
   <a href="https://github.com/shubham-s-pandey/WiresharkMCP"><img src="https://github.com/shubham-s-pandey/WiresharkMCP/blob/main/diagram.png" alt="logo" border="0"></a>
 </h1>
 
+## Wireshark MCP Demo Video
+
+You can view the demo video for Wireshark MCP here:
+
+[Wireshark MCP Demo Video](https://github.com/shubham-s-pandey/WiresharkMCP/blob/main/Wireshark_MCP-demo.mp4)
+
 ## Overview
 A powerful integration between Wireshark and MCP (Machine Control Protocol) that enables natural language interaction with network analysis through Claude Desktop.
 
